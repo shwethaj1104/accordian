@@ -31,9 +31,9 @@ Variables
   --clr-grey-9: hsl(212, 33%, 89%);
   --clr-grey-10: hsl(210, 36%, 96%);
   --clr-white: #fff;
-  --clr-purple: #4b145b;
+  --clr-purple: #277da14d;
   --clr-red-special: #b4345c;
-  --clr-grey-special: #eae6eb;
+  --clr-grey-special: #277da12b;
   --clr-red-dark: hsl(360, 67%, 44%);
   --clr-red-light: hsl(360, 71%, 66%);
   --clr-green-dark: hsl(125, 67%, 44%);
@@ -91,6 +91,7 @@ h2 {
 }
 h3 {
   font-size: 1.25rem;
+  color: #277da1;
 }
 h4 {
   font-size: 0.875rem;
