@@ -1,3 +1,4 @@
 # accordian
 
-![image](https://user-images.githubusercontent.com/107784718/182863747-eba7d1c5-a0ff-4fec-b082-9f18d08a0c73.png)
+![image](https://user-images.githubusercontent.com/107784718/182864558-ce2df436-7ba7-4f39-acd3-4db6d955e8d9.png)
+
