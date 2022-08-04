@@ -7,7 +7,10 @@ function App() {
   return (
       <main>
         <div className='container'>
+          <div>
           <h3>Questions and Answers about Login</h3>
+          <img src='QnA.jpg'></img>
+          </div>
           <section className='info'>
               {data.map((question) =>{
                 return <SingleQuestion key={question.id} {...question}/>
