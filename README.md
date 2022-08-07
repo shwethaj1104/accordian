@@ -1,4 +1,4 @@
-# accordian
+# Accordian
 
 Application developed on React.js
 
