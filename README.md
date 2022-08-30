@@ -1,4 +1,4 @@
-# Accordian
+# SimpleAccordian
 
 Application developed on React.js
 
