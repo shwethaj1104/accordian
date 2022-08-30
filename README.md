@@ -2,7 +2,7 @@
 
 Application developed on React.js
 
-Checkout is available on https://accordian-psi.vercel.app/
+Checkout Application is available on https://accordian-psi.vercel.app/
 
 A sample Modal where we can click on a button to show some content and again toggle back.
 
